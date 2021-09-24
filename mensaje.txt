@@ -1,3 +1,5 @@
 hola mundo me comunico desde mi compu
 
 estemensaje se llama mensaje.txty esta dentro de mi carpeta "probando-git", que antes estaba vacia.
+
+HOLA DESDE AUSTRALIA 
